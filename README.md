@@ -4,15 +4,19 @@
 
 For now there are projects like : 
 
+
 ## -Parafia_Olbierzowice, which is site for my parish.
 ## -Kiszak_bot, which is kinda funny bot for one of servers that I'm in
 ## -strona-ebf0, which is basically easy site for my friend's company.
 
+
 There will be also my BEng thesis about Reinforcement Learining, and its adjustment for mini-games wrote in TS.
+
 
 Im dreaming also about game-dev... Hope that someday maybe it would come true... 
 
-#Enjoy!!!
+
+# Enjoy!!!
 
 <!--
 **Orzelek03/Orzelek03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
