@@ -1,12 +1,12 @@
-## Hello! My name is Kacper, and I'm so happy to see you in my github site. 
+# Hello! My name is Kacper, and I'm so happy to see you in my github site. 
 
-#This profile was created at the very beggining for my lectures at University. But for now, there are also my projects, that i realised. All with passion, and pleasure to continue my adventure with IT. 
+## This profile was created at the very beggining for my lectures at University. But for now, there are also my projects, that i realised. All with passion, and pleasure to continue my adventure with IT. 
 
 For now there are projects like : 
 
-# -Parafia_Olbierzowice, which is site for my parish.
-# -Kiszak_bot, which is kinda funny bot for one of servers that I'm in
-# -strona-ebf0, which is basically easy site for my friend's company.
+## -Parafia_Olbierzowice, which is site for my parish.
+## -Kiszak_bot, which is kinda funny bot for one of servers that I'm in
+## -strona-ebf0, which is basically easy site for my friend's company.
 
 There will be also my BEng thesis about Reinforcement Learining, and its adjustment for mini-games wrote in TS.
 
