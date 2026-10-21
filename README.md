@@ -1,22 +1,18 @@
-# Hello! My name is Kacper, and I'm so happy to see you in my github site. 
+# 👋 Hello! My name is Kacper, and welcome to my GitHub profile.
 
-## This profile was created at the very beggining for my lectures at University. But for now, there are also my projects, that i realised. All with passion, and pleasure to continue my adventure with IT. 
+I originally created this profile for my university classes, but it has since grown to showcase my personal projects. I'm building them with passion as I continue my journey in IT.
 
-For now there are projects like : 
+Here are a few highlights of what I've been working on:
 
+* **Parafia_Olbierzowice** – A website created for my local parish.
+* **Kiszak_bot** – A fun, custom bot built for a server I'm part of.
+* **strona-ebf0** – A streamlined website designed for a friend's business.
 
-## -Parafia_Olbierzowice, which is site for my parish.
-## -Kiszak_bot, which is kinda funny bot for one of servers that I'm in
-## -strona-ebf0, which is basically easy site for my friend's company.
+I am also currently working on my Engineering (BEng) thesis, which explores using Reinforcement Learning and its adaptation for mini-games written in TypeScript. 
 
+I'm also deeply interested in game development and hope to turn that passion into reality someday. 
 
-There will be also my BEng thesis about Reinforcement Learining, and its adjustment for mini-games wrote in TS.
-
-
-Im dreaming also about game-dev... Hope that someday maybe it would come true... 
-
-
-# Enjoy!!!
+Feel free to look around!
 
 <!--
 **Orzelek03/Orzelek03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
