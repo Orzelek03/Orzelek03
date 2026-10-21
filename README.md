@@ -4,9 +4,9 @@
 
 For now there are projects like : 
 
-#-Parafia_Olbierzowice, which is site for my parish.
-#-Kiszak_bot, which is kinda funny bot for one of servers that I'm in
-#-strona-ebf0, which is basically easy site for my friend's company.
+# -Parafia_Olbierzowice, which is site for my parish.
+# -Kiszak_bot, which is kinda funny bot for one of servers that I'm in
+# -strona-ebf0, which is basically easy site for my friend's company.
 
 There will be also my BEng thesis about Reinforcement Learining, and its adjustment for mini-games wrote in TS.
 
